@@ -1,0 +1,5 @@
+docopt==0.6.2
+ffmpy==0.2.3
+numpy==1.18.4
+opencv-python==4.2.0.34
+Pillow==7.1.2
